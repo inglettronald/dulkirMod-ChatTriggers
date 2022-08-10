@@ -11,6 +11,7 @@ ChatTriggers Module that I am working on for fun
   - Party notifiers for terminal throttling
   - Cleanup for enchant and heart particles
     - Not yet toggleable either, but useful for enchant rune and healer hearts in dungeons.
+  - A couple extra shortcut commands ripped from the code segment from bloom module.
     
  ## TO-DO: 
  - Hide Healer fairy
